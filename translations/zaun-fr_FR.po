@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zaun\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-31 20:43+0100\n"
+"PO-Revision-Date: 2008-08-31 20:44+0100\n"
+"Last-Translator: Yann 'Ze' Richard <ze(arobase)nbox.org>\n"
+"Language-Team: Yann 'Ze' Richard <ze(arobase)nbox.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-KeywordsList: zaun__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /archives/wp/wp-content/plugins/ze-admin-update-notifications\n"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:57
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:117
+#, php-format
+msgid "There is a new version of %1$s available. Your version: %2$s | New version: %3$s"
+msgstr "Une nouvelle version de %1$s est disponible. Version actuelle: %2$s | Nouvelle version: %3$s"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:104
+#, php-format
+msgid "There is a new version of WordPress available ! Your version: %1$s | New version: %2$s"
+msgstr "Une nouvelle version de WordPress est disponible. Version actuelle: %1$s | Nouvelle version: %2$s"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:143
+msgid "Update for your blog need your actions !"
+msgstr "Une mise à jour pour votre blog demande votre attention !"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:145
+msgid "There is one or more update who need your action :"
+msgstr "Il y a une ou plusieurs mise à jour qui demande votre attention :"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:151
+#, php-format
+msgid "To update, go to your admin panel: %1$s"
+msgstr "Pour mettre à jour, allez dans votre zone d'administration: %1$s"
+
+#: /archives/wp/wp-content/plugins/ze-admin-update-notifications/wp-ze-admin-update-notifications.php:153
+msgid "Notified by Ze's Admin Update Notification Plugin"
+msgstr "Notifié par le plugin de Ze: Admin Update Notification"
+
